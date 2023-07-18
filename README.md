@@ -1,8 +1,12 @@
 # Scob
 ![Copyright](https://img.shields.io/badge/Copyright-CVTEAM-red)
+
 Pytorch implementation of *Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition*.
 
-Cheng Chen, Yifan Zhao, Jia Li
+Cheng Chen, Yifan Zhao, Jia Li 
+
+[Arxiv](http://arxiv.org/abs/2307.07680)
+
 
 ## Environments
 
