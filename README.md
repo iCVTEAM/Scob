@@ -3,7 +3,7 @@
 
 Pytorch implementation of *Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition*.
 
-Cheng Chen, Yifan Zhao, Jia Li 
+Chen, C., Zhao, Y., & Li, J. (2023). Semantic Contrastive Bootstrapping for Single-Positive Multi-label Recognition. International Journal of Computer Vision, 131(12), 3289-3306.
 
 [Arxiv](http://arxiv.org/abs/2307.07680)
 
